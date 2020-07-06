@@ -6,6 +6,7 @@ and charecteristic impedance of the transmission line.
 
 Stubs are realized both open circuit and short circuit.
 
+Note : All numerical values is presented in terms of lamda of the transmission line
 Example :
 
 What is Z0 50   %For lossles case it is real
@@ -14,7 +15,7 @@ What is ZL 100+80j %impedance of the load (doesn't need to be complex)
 
 d1 = %first solution or second solution it is arbitrary
  
-0.2134 %length from load to stub
+    0.2134 %length from load to stub
  
 lo1 =  %length from open circuit towards generator for 1 solution
 
@@ -26,7 +27,7 @@ ls1 = %length from short circuit towards generator for 1 solution
  
 d2 = %first solution or second solution it is arbitrary
  
-0.3697
+    0.3697
  
 lo2 = %length from open circuit towards generator for 2 solution
 
