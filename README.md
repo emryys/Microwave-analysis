@@ -7,11 +7,17 @@ and charecteristic impedance of the transmission line.
 Stubs are realized both open circuit and short circuit.
 
 Note : All numerical values is presented in terms of lamda of the transmission line
+
 Example :
 
-What is Z0 50   %For lossles case it is real
-What is stub charecteristic impeadance? 75 %if the charecteristic impedance of the stub is different
-What is ZL 100+80j %impedance of the load (doesn't need to be complex)
+What is Z0 :
+     50 
+     
+What is stub charecteristic impeadance? : 
+     75 
+     
+What is ZL :
+     100+80j 
 
 d1 = %first solution or second solution it is arbitrary
  
