@@ -6,6 +6,7 @@ Zs=input(prompt);
 prompt = 'What is ZL ';
 ZL=input(prompt);
 
+Y0=1/Z0;
 YL=1/ZL;
 GL=real(YL);
 BL=imag(YL);
